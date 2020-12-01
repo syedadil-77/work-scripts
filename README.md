@@ -3,6 +3,8 @@
 ### What is DevOps?
 DevOps is nothing but a set of philosophies, practices, and tools that help an organization to deliver better products faster by facilitating an integration of the development and operations functions. This enables companies to serve their customers and markets in a better way and have a competitive edge.
 This starts from the design to the entire development process right up to production support.
+
+![what-is-DevOps](https://miro.medium.com/max/560/0*ce0LtmiGRn9bLWW5.png)
  
 ### Why do we need DevOps?
 Before DevOps, different teams within a company were working isolated from one another. The development team would take their time and develop a product within their test environment and after completing it, would hand it over to the operations team to put it out in the real world. So, there was no intervention between the two teams. There was an imaginary wall between them which plays a major part on performance and efficiency of a business. What it did was, when the development team built a product, they were proud of their work but, when the same product was deployed by the operations team, the product didn’t work as expected at all. Now, what normally happened was that the development team would go on the defensive and assume that if the product works well in their test environment than it must be the operations team’s poor execution. Both teams get frustrated and angry and now they hate their jobs because after so much time and work, they still ended up with a sub-optimal product in the market which would take about the same amount of time to be made somewhat perfect. Which is not really practical as by that time, your competitors might come out with a more appealing and complete product. 
@@ -128,6 +130,8 @@ Although DevOps was not supposed to be about tools, with its evolution in the la
     Selenium
     Vagrant
     SoapUI
+    
+![DevOps-Tools](https://miro.medium.com/max/425/0*mVdSXh9Y1aP8106T.png)
  
 ### The Key to Effective Adoption of DevOps
 
